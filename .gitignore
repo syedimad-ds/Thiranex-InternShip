@@ -1,0 +1,14 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and editor configuration
+venv/
+.venv/
+.vscode/
+.idea/
+
+# Temporary verification logs
+reports/*.log
+**/reports/*.log
