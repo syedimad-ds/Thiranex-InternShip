@@ -12,3 +12,6 @@ venv/
 # Temporary verification logs
 reports/*.log
 **/reports/*.log
+
+# Large reproducible Task 4 pipeline output (generated from raw data)
+Task 4/data/processed/task4_transactions_prepared.csv
